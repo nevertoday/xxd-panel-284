@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-284
-description: "Create XXD Panel 284 raster artwork: a faithful photograph paired with one miniature-monument emblem inside a stable geometric frame, vintage print and cold-warm color. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-284 or asks for this 文明徽记 style."
+description: "XXD Panel 284｜Civilisation Emblem: keeps the photo and sets its subject as a miniature monument inside a stable circular, shield or square frame, with only a few supporting signs such as orbits, stars, a horizon, a sun or a lunar arc, printed like old science posters, space-mission patches and commemorative stamps — offset lithography, coarse halftone, uneven ink, slight misregistration and paper texture — in a cold-warm clash of deep space blue against sun yellow, warm red, orange and teal with paper white, with a short English name, mission number or institutional label in compact institutional sans-serif. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-284 or asks for a framed space-age emblem, miniature-monument badge or philatelic retro-futurist logo from a photo."
 ---
 
 # XXD Panel 284

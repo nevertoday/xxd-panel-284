@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 284｜Civilisation Emblem: keeps the photo and sets its subject as a miniature monument inside a stable circular, shield or square frame, with only a few supporting signs such as orbits, stars, a horizon, a sun or a lunar arc, printed like old science posters, space-mission patches and commemorative stamps — offset lithography, coarse halftone, uneven ink, slight misregistration and paper texture — in a cold-warm clash of deep space blue against sun yellow, warm red, orange and teal with paper white, with a short English name, mission number or institutional label in compact institutional sans-serif. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-284 or asks for a framed space-age emblem, miniature-monument badge or philatelic retro-futurist logo from a photo.",
+  "short_description": "文明徽记：把照片主体放进几何框里，印成一枚冷暖对撞的微型纪念碑徽章",
+  "zh-CN": {
+    "name": "文明徽记",
+    "tagline": "把照片主体放进几何框里，印成一枚冷暖对撞的微型纪念碑。",
+    "look": "原照片保留；主体被强化轮廓、简化结构，稳稳立在圆形、盾形或方形框架中央，像一座很小却有分量的纪念碑，旁边只加很少的轨道、星辰、地平线、太阳或月弧。印刷感像旧科学海报、航天徽章和纪念邮票：胶印、粗网点、油墨不匀、轻微套印偏差和纸张纹理。颜色是深宇宙蓝对着太阳黄、暖红、橙和青绿的冷暖对撞，加纸白。配简短的英文名称、任务编号或机构式标注，用紧凑的机构无衬线字。",
+    "traits": ["微型纪念碑", "轨道几何框", "冷暖印刷", "机构无衬线", "徽章"],
+    "good": [
+      "能立起来像纪念碑的主体：一座塔、一座雕像、一座灯塔、一棵大树",
+      "带天空、地平线或天体的照片：日出时的山、月下的建筑、海边的落日",
+      "想做成纪念邮票、活动徽章或团队标志的照片"
+    ],
+    "poor": [
+      "颜色灰暗、想保持低饱和莫兰迪感的照片，这里是浓重的冷暖对撞",
+      "多人或场景细节都要保留的照片，框里只放一个主体",
+      "想要电影科幻效果、3D 渲染、赛博朋克或现代 App Logo 的需求"
+    ]
+  },
+  "en": {
+    "name": "Civilisation Emblem",
+    "tagline": "Frames the subject of your photo and prints it as a miniature monument in clashing cold and warm colours.",
+    "look": "Your photo stays; the subject's outline is strengthened and its structure simplified, and it stands at the centre of a circular, shield or square frame like a tiny but weighty monument, with only a few orbits, stars, a horizon, a sun or a lunar arc beside it. The print feels like old science posters, space-mission patches and commemorative stamps: offset lithography, coarse halftone, uneven ink, slight misregistration and paper texture. Deep space blue clashes with sun yellow, warm red, orange and teal against paper white. A short English name, mission number or institutional label is set in compact institutional sans-serif.",
+    "traits": ["Miniature monument", "Orbital frame", "Cold-warm print", "Institutional sans-serif", "Emblem"],
+    "good": [
+      "Subjects that can stand like a monument: a tower, a statue, a lighthouse, a great tree",
+      "Photos with sky, horizon or celestial bodies: a mountain at sunrise, a building under the moon, a seaside sunset",
+      "Photos you want as a commemorative stamp, event badge or team emblem"
+    ],
+    "poor": [
+      "Muted, greyish photos you want kept low-saturated, since this style uses a strong cold-warm clash",
+      "Photos where several people or scene details must stay, as the frame holds one subject",
+      "Requests for movie sci-fi effects, 3D rendering, cyberpunk or a modern app logo"
+    ]
+  },
+  "ja": {
+    "name": "文明の紋章",
+    "tagline": "写真の主役を幾何学の枠に収め、寒色と暖色がぶつかる小さな記念碑として刷り上げます。",
+    "look": "元の写真は残し、主役は輪郭を強め構造を簡略化して、円、盾、四角の枠の中央にしっかり立たせ、小さくても重みのある記念碑のようにします。添えるのは軌道、星、地平線、太陽、月の弧などをわずかだけです。刷りは古い科学ポスターや宇宙ミッションのワッペン、記念切手のようで、オフセット印刷、粗い網点、インクのむら、軽い版ずれ、紙の質感があります。色は深い宇宙の青に太陽の黄、暖かな赤、オレンジ、ティールをぶつけ、紙の白を合わせます。短い英語の名称、ミッション番号、機関風の表記がコンパクトな機関のサンセリフで入ります。",
+    "traits": ["小さな記念碑", "軌道の幾何学枠", "寒暖の印刷", "機関のサンセリフ", "紋章"],
+    "good": [
+      "記念碑のように立たせられる主役：塔、彫像、灯台、大きな木",
+      "空、地平線、天体が写った写真：朝日の山、月夜の建物、海辺の夕日",
+      "記念切手、イベントのバッジ、チームのエンブレムにしたい写真"
+    ],
+    "poor": [
+      "くすんだ色を彩度低めのまま残したい写真（ここでは寒色と暖色を強くぶつけます）",
+      "複数の人や場面の細部を残す必要がある写真（枠に入るのは主役ひとつです）",
+      "映画のようなSF表現、3Dレンダリング、サイバーパンク、現代的なアプリのロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "문명 엠블럼",
+    "tagline": "사진 속 주인공을 기하학 틀에 넣어, 차가운 색과 따뜻한 색이 부딪히는 작은 기념비로 찍어 냅니다.",
+    "look": "원본 사진은 남기고, 주인공은 윤곽을 강하게 하고 구조를 단순하게 해 원형, 방패형, 사각형 틀 가운데에 단단히 세웁니다. 작지만 무게 있는 기념비처럼 보이고, 곁에는 궤도, 별, 지평선, 해, 달의 호 같은 것을 아주 조금만 둡니다. 인쇄감은 옛 과학 포스터, 우주 임무 패치, 기념우표 같아서 오프셋 인쇄, 굵은 망점, 고르지 않은 잉크, 살짝 어긋난 판, 종이 질감이 있습니다. 색은 짙은 우주색 파랑에 태양 노랑, 따뜻한 빨강, 주황, 청록을 부딪치고 종이 흰색을 더합니다. 짧은 영어 이름, 임무 번호, 기관식 표기가 간결한 기관풍 산세리프로 들어갑니다.",
+    "traits": ["작은 기념비", "궤도 기하 틀", "한난 대비 인쇄", "기관풍 산세리프", "휘장"],
+    "good": [
+      "기념비처럼 세울 수 있는 주인공: 탑, 동상, 등대, 큰 나무",
+      "하늘, 지평선, 천체가 있는 사진: 해 뜨는 산, 달 아래 건물, 바닷가 노을",
+      "기념우표, 행사 배지, 팀 엠블럼으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "칙칙한 색을 낮은 채도 그대로 두고 싶은 사진(이 스타일은 강한 한난 대비를 씁니다)",
+      "여러 사람이나 장면 디테일을 남겨야 하는 사진(틀에는 주인공 하나만 들어갑니다)",
+      "영화 같은 SF 효과, 3D 렌더링, 사이버펑크, 현대적인 앱 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شعار الحضارة",
+    "tagline": "يضع العنصر الرئيسي في صورتك داخل إطار هندسي ويطبعه نُصباً مصغّراً بألوان باردة ودافئة متصادمة.",
+    "look": "تبقى صورتك، ويُقوّى الخط الخارجي للعنصر وتُبسَّط بنيته، فيقف في وسط إطار دائري أو درعي أو مربع كنُصب صغير لكنه ذو ثقل، ولا يُضاف حوله إلا قليل من المدارات أو النجوم أو خط الأفق أو الشمس أو قوس القمر. تشبه الطباعة ملصقات العلوم القديمة ورقع مهمات الفضاء والطوابع التذكارية: طباعة أوفست وتنقيط شبكي خشن وحبر غير متساوٍ وانزياح خفيف في التسجيل وملمس الورق. يتصادم أزرق الفضاء الداكن مع أصفر الشمس والأحمر الدافئ والبرتقالي والأزرق المخضر على أبيض الورق. ويُكتب اسم إنجليزي قصير أو رقم مهمة أو تسمية مؤسسية بخط مؤسسي مضغوط بلا زوائد.",
+    "traits": ["نُصب مصغّر", "إطار مداري هندسي", "طباعة باردة ودافئة", "خط مؤسسي بلا زوائد", "شعار"],
+    "good": [
+      "عناصر يمكن أن تقف كالنُصب: برج، تمثال، منارة، شجرة كبيرة",
+      "صور فيها سماء أو أفق أو أجرام: جبل عند الشروق، مبنى تحت القمر، غروب على البحر",
+      "صور تريدها طابعاً تذكارياً أو شارة فعالية أو شعار فريق"
+    ],
+    "poor": [
+      "صور باهتة رمادية تريد بقاءها قليلة التشبع، فهذا الأسلوب يعتمد تصادماً قوياً بين البارد والدافئ",
+      "صور يجب أن يبقى فيها عدة أشخاص أو تفاصيل المشهد، فالإطار لا يحمل إلا عنصراً واحداً",
+      "طلب مؤثرات خيال علمي سينمائية أو تصيير ثلاثي الأبعاد أو سايبربانك أو شعار تطبيق حديث"
+    ]
+  }
+}
